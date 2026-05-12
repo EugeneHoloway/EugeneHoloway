@@ -6,7 +6,7 @@ product concepts tested in code rather than slides.
 **What you'll find here**
 - Product prototypes and backoffice mockups
 - Analytics dashboards and data visualizations
-- iGaming platform concepts (casino ops, white-label, affiliate)
+- iGaming platform concepts (ops, white-label, affiliate)
 - Experiments with AI-powered product flows
 ## About Me
 - **Head of Product** with background in iGaming B2B, FinTech, and MarTech
