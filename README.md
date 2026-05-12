@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**EugeneHoloway/EugeneHoloway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Eugene 👋
+Head of Product. I turn product ideas into working prototypes --
+not decks, not specs.
+bildery.com is my personal lab -- real interfaces, real logic,
+product concepts tested in code rather than slides.
+**What you'll find here**
+- Product prototypes and backoffice mockups
+- Analytics dashboards and data visualizations
+- iGaming platform concepts (casino ops, white-label, affiliate)
+- Experiments with AI-powered product flows
+## About Me
+- **Head of Product** with background in iGaming B2B, FinTech, and MarTech
+- Built products 0→1 at companies like GR8 Tech, EasyPay, Develux
+- Based in Berlin
+**🌱 If you're building a product-led SaaS or a B2B platform
+and want to talk product strategy -- I'm up for a conversation.**
