@@ -1,7 +1,7 @@
 # Hi, I'm Eugene 👋
 Head of Product. I turn product ideas into working prototypes --
 not decks, not specs.
-bildery.com is my personal lab -- real interfaces, real logic,
+[Bildery](https://bildery.com) is my personal lab -- real interfaces, real logic,
 product concepts tested in code rather than slides.
 **What you'll find here**
 - Product prototypes and backoffice mockups
