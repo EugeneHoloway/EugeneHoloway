@@ -3,6 +3,7 @@ Head of Product. I turn product ideas into working prototypes --
 not decks, not specs.
 [Bildery](https://bildery.com) is my personal lab -- real interfaces, real logic,
 product concepts tested in code rather than slides.
+
 **What you'll find here**
 - Product prototypes and backoffice mockups
 - Analytics dashboards and data visualizations
